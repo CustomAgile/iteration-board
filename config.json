@@ -1,0 +1,13 @@
+{
+   "name": "test",
+   "className": "CustomApp",
+   "server": "https://10.32.16.78",
+   "sdk": "2.0rc2",
+   "javascript": [
+      "overrides.js",
+      "App.js"
+   ],
+   "css": [
+      "app.css"
+   ]
+}
